@@ -1,0 +1,17 @@
+html{
+    background-color: black;
+}
+body{
+    color: white;
+}
+#main{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    text-align:center;
+}
+#meme{
+    border:5px solid white;
+    width:100%;
+}
